@@ -45,7 +45,7 @@ const init = async () => {
                 scannedAt: new Date(),
             });
 
-            return h.redirect('https://google.com');
+            return h.redirect('https://phoenixgarden.id/social-sip-events/');
         },
     });
 
@@ -62,7 +62,7 @@ const init = async () => {
                 scannedAt: new Date(),
             });
 
-            return h.redirect('https://google.com');
+            return h.redirect('https://phoenixgarden.id/social-sip-events/');
         },
     });
 
